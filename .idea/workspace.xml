@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbbcd1ce-54b0-49bf-beed-c06f42afd128" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685172035936</updated>
-      <workItem from="1685172039858" duration="1261000" />
+      <workItem from="1685172039858" duration="1605000" />
     </task>
     <servers />
   </component>
